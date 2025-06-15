@@ -4,8 +4,8 @@
 
 Bug and feature request tracking for [Interchange](https://apps.apple.com/us/app/interchange-college-commute/id6739968742), an app for your college commute.
 
-## Filing an issue
-Navigate to the "Issues" tab, click "New issue", and follow the prompts.
+## Filing a bug report or feature request
+Thank you for contributing to Interchange! [File a new issue here](https://github.com/brendan-ch/interchange-issues/issues/new/choose). Please choose one of the provided templates, and provide the requested information.
 
 ## Questions
 For other questions about the app, email me at `me [at] bchen.dev`.
