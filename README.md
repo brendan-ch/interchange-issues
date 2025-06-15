@@ -1,6 +1,6 @@
-# Interchange issues
+<img width="80" alt="App icon, light" src="https://github.com/user-attachments/assets/e2ecabce-7288-4159-b76d-3f2372d84d3c" />
 
-<img width="60" alt="App icon, light" src="https://github.com/user-attachments/assets/e2ecabce-7288-4159-b76d-3f2372d84d3c" />
+# Interchange Issues
 
 Bug and feature request tracking for [Interchange](https://apps.apple.com/us/app/interchange-college-commute/id6739968742), an app for your college commute.
 
